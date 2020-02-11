@@ -1,0 +1,7 @@
+#formGroupName, #formGroupEmail, #formGroupPhone {
+    width: 20%;
+}
+
+#formGroupMessage {
+    width: 50%;
+}
