@@ -55,6 +55,22 @@ class PriceList extends Component {
                             Reproductions (per inch): $15<br />
                         </Card.Text>
                     </Card.Body>
+                </Card>
+                <Card>
+                    <Card.Body>
+                        <Card.Title controlId="skullMounts">European Skull Mounts</Card.Title>
+                        <Card.Text>
+                        Bear: $150<br /><br />
+                        Boar: $150<br /><br />
+                        Cats: $100<br /><br />
+                        Deer: $150<br /><br />
+                        Elk/Caribou: $200<br /><br />
+                        Moose: $300<br /><br />
+                        Sheep/Goat: $200<br /><br />
+                        Small Game: $75<br /><br />
+                        *Animal's natural skull is cleaned, bleached and treated.<br />
+                        </Card.Text>
+                    </Card.Body>
 
                 </Card>
                 <br />
@@ -73,9 +89,8 @@ class PriceList extends Component {
                        Bobcat/Lynx         $350        /    $650<br /><br />
                        Caribou             $750        /    $2500<br /><br />
                        Coyote              $400        /    $750<br /><br />
-                       Deer: <br />
-                            Whitetail Buck   $495      /     $2500
-                            Mule             $495      /    $1500<br /><br />
+                            Whitetail Buck:<br />   $495      /     $2500<br /><br />
+                            Mule Deer: <br />             $495      /    $1500<br /><br />
                        Elk                             /    $1250<br /><br />
                        Elk Bugling                     /    $1350<br /><br />
                        Fox                             /    $650<br /><br />

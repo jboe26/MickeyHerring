@@ -3,7 +3,7 @@ body {
   padding: 20px;
   margin: 0;
 }
-h1, h2, h4, p, ul, li, i {
+h1, h2, h4, p, ul, li, i, #birds, #fish, #skullMounts, #hornPlaques, #gameMounts {
   font-family: monospace;
   text-align: center;
 }
